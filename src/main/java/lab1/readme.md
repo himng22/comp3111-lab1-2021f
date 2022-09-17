@@ -1,4 +1,4 @@
 David 
 12345678
 
-![image](image.png)
+![image](/lab1/img/image.png)
